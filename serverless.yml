@@ -1,0 +1,13 @@
+service: catfax-alexa
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+
+functions:
+  cat_fact:
+    handler: handler.cat_fact
+    events:
+      - alexaSkill:
+          appId: amzn1.ask.skill.0c1dee78-efa6-416b-ab19-f0dff1e60a7c
+          enabled: true
