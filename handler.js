@@ -1,4 +1,5 @@
 'use strict';
+const fetch = require('node-fetch');
 
 module.exports.cat_fact =  async (event, context, callback) => {
   

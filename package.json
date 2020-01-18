@@ -1,0 +1,22 @@
+{
+  "name": "catfax-alexa",
+  "version": "1.0.0",
+  "description": "A Lambda for a silly Alexa Skill that gives you cat facts",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marivaldi/crazy-cat-lady-alexa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marivaldi/crazy-cat-lady-alexa/issues"
+  },
+  "homepage": "https://github.com/Marivaldi/crazy-cat-lady-alexa#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
