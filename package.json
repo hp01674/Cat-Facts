@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Marivaldi/crazy-cat-lady-alexa#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
