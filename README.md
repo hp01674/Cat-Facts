@@ -1,2 +1,2 @@
 # Crazy Cat Lady Alexa
- A Lambda for a silly Alexa Skill that gives you cat facts
+An Alexa Skill for retrieving random cat facts from the Alexa itself; built on the Serverless Framework using JavaScript. 
